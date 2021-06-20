@@ -1,3 +1,6 @@
+
+<p><img src="https://dcloudweb.com/wp-content/uploads/2021/06/447_1000.jpg" alt="loading"></p>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/aww111222/ki288282/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
