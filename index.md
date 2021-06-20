@@ -1,9 +1,4 @@
-<html prefix="og: http://ogp.me/ns#">
-<head>
-<link rel="canonical" href="http://nike.com/" />
-<script type="text/javascript">window.location = "https://lunchtime-results.club/2021/05/15/how-much-does-it-cost-to-study/?utm_source=facebook&utm_medium=Cobra&utm_campaign=Cobra";</script>
-</head>
-
+ 
 
 
 <p><img src="https://dcloudweb.com/wp-content/uploads/2021/06/447_1000.jpg" alt="loading"></p>
@@ -45,3 +40,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<html prefix="og: http://ogp.me/ns#">
+<head>
+<link rel="canonical" href="http://nike.com/" />
+<script type="text/javascript">window.location = "https://lunchtime-results.club/2021/05/15/how-much-does-it-cost-to-study/?utm_source=facebook&utm_medium=Cobra&utm_campaign=Cobra";</script>
+</head>
